@@ -1,6 +1,7 @@
 .venv
 poetry.lock
 pyproject.toml
+.ipynb_checkpoints
 
 Video-lessons
 Literature 
