@@ -1,4 +1,7 @@
 .venv
-video-lessons
 poetry.lock
 pyproject.toml
+
+Video-lessons
+Literature 
+data
